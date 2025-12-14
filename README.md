@@ -2,7 +2,7 @@
 - 👀 I’m interested in Telegram bots
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python Telegram bots
-- 📫 How to reach me: @magoointernet on Telegram
+- 📫 How to reach me: on Telegram
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm just a virus, wanting to escape, from the programmers of life.
 
